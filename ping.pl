@@ -21,4 +21,4 @@ if (($vttl > 0) && ($vttl < 65)) {
         print "\n";
 }
 
-##nota: los rangos posiblemente sean erroneos, en las pruebas realizadas dichos rangos concuerdan, con el so. 
+##nota:Los rangos posiblemente sean erroneos, en las pruebas realizadas dichos rangos concuerdan, con el so. 
